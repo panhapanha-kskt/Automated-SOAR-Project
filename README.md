@@ -270,7 +270,7 @@ Scanner + Dangerous      ──► Level 11  🟠 AUTO-BLOCK
 | Setting | Value |
 |---|---|
 | SMTP Username | `sop98886@gmail.com` |
-| SMTP Password | `kizagpavcmgoodpi` |
+| SMTP Password | `your-email-app-key` |
 | Alert Recipient | `sopanha.tith@student.cadt.edu.kh` |
 | Email Trigger Level | Level ≥ 10 (configurable) |
 | Critical Email Trigger | Level ≥ 15 via `syslog_output` |
